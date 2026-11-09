@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abidhhabeeb.com/sitemap.xml
